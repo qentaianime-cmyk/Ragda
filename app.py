@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # luli
 USER_KEYS = [
-    "reflex,
+    "reflex",
     "toji",
     "luli"
 ]
