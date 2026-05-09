@@ -18,7 +18,7 @@ def safe_first(lst, key=None):
 
 
 def fetch_truecaller(number):
-    TOKEN = "a3p0vZwnVq_YqSNipZo3woAdYmgEnq6SY2JQIKqxOTGgrLck5xA2xbCNK8Ai_IBu"
+    TOKEN = "a2i0a--xGEup3VdVkAZ5pEdGVr36IAiYoER_c8qIN5GftDqpn5ENRfvJ17vDX70U"
     url = f"https://search5-noneu.truecaller.com/v2/search?q={number}&countryCode=IN&type=4&encoding=json"
     headers = {
         "User-Agent": "Truecaller/15.32.6 (Android;14)",
